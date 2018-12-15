@@ -26,7 +26,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: alembic-jekyll-theme
+# remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
 
@@ -41,3 +43,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
